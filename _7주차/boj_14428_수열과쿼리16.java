@@ -3,7 +3,7 @@ package _7주차;
 import java.io.*;
 import java.util.*;
 
-public class swea_14428_수열과쿼리16 {
+public class boj_14428_수열과쿼리16 {
     static int N, M;
     static int[] arr;
     static int[] tree;
